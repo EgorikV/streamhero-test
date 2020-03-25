@@ -1,65 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="{{root}}css/app.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>{{Why should every website use Lazy Loading in 2020? — Uploadcare Newsletter}}</title>
+  <!-- <style> -->
+</head>
+
 ---
-subject: My Hero Email Template Subject
+layout: uploadcare-newsletter
+type: sendgrid
+unsubtoken: 4 # Newsletter
+subject: "Why should every website use Lazy Loading in 2020? — Uploadcare Newsletter"
+Read the definitive blog post on Lazy Loading and check out Contentful CMS plugin by our customers
 ---
 
-<wrapper class="header">
-  <container>
-    <row class="collapse">
-      <columns small="6">
-        <img src="https://placehold.it/200x50/663399">
-      </columns>
-      <columns small="6">
-        <p class="text-right">HERO</p>
-      </columns>
-    </row>
-  </container>
-</wrapper>
+<body>
+  <span class="preheader">Read the definitive blog post on Lazy Loading and check out Contentful CMS plugin by our customers</span>
+  <table cellspacing="0" cellpadding="0" border="0" width="600">
+    <tr>
+        <td align="center" valign="top">
+          <a href="https://uploadcare.com/?utm_source={{newsletter-early-03-20}}&utm_medium=email&utm_campaign={{newsletter-early-03-20}}-{{main}}&utm_content={{newsletter-early-03-20}}}-{{main}}-logo">
+          <img src="https://ucarecdn.com/c63e27e7-983c-4ba9-867e-d903a89ed646/-/resize/266x/uploadcare.png"
+                     alt="Uploadcare" width="133" height="25" style="display: block;"/>
+          </a>
+          <p>
+              Howdy [%first_name%],
+          </p>
+       </td>
+   </tr>
+   <tr>
+      <td align="left" valign="top" style="padding: 40px 25px 20px 25px;">
+         <p>
+            Uploadcare Team’s on the line. Here is a summary of our latest news for you
+         </p>
+         <ul>
+             <li><b>Get Moving with Lazy Loading Images:</b> a definitive post in our blog highlighting Lazy Loading pros and implementation
+             techniques.</li>
+             <li><b>Contentful CMS Integration:</b> brought to you with by <a href="https://www.prezly.com/">Prezly</a>.</li>
+             <li><b>Remarkable B2B Startup, Officially:</b> we got featured in GrowthList as a remarkable B2B Startup to watch.</li>
+             <li><b>Two Secret Plans Offer Extended:</b> discounted Pro and big-limits Usage Ninja, back by popular demand.</li>
+         </ul>
+      </td>
+   </tr>
+   <tr>
+        <td align="center" valign="top">
+          <img src="https://ucarecdn.com/aca169e2-cf9a-406f-8a40-831a2bf66098/"
+          alt="Why should every website use Lazy Loading in 2020?" width="600" height="230" style="display: block;"/>
+       </td>
+   </tr>
+   <tr>
+      <td align="left" valign="top" style="padding: 40px 25px 20px 25px;">
+         <p>
+            Have you ever wondered what’s the real benefit of Lazy Loading, and which way of implementing Lazy Loading is better?
+            Read our latest post in the Uploadcare Blog to clear things up!
+         </p>
+         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#505050; border:1px solid #353535; border-radius:5px;">
+          <tr>
+           <td align="center" valign="middle" style="color:#ffd84d; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; line-height:150%; padding:15px 30px 15px 30px;">
+           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#FFFFFF;">Read post</a>
+           </td>
+          </tr>
+         </table>
+         
+         <spacer size="20"></spacer>
+         
+         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size: 24px; line-height: 30px;">Contentful CMS Plugin by Prezly</h2>
+         <p>
+            Our customers Prezly made a great JS plugin to use Uploadcare with Contentful CMS. It’s pretty easy to install or tweak the
+            plugin. Try it yourself! P.S. Thank you, Prezly 
+         </p>
+         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#505050; border:1px solid #353535; border-radius:5px;">
+          <tr>
+           <td align="center" valign="middle" style="color:#ffd84d; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; line-height:150%; padding:15px 30px 15px 30px;">
+           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#FFFFFF;">Visit GitHub Repo</a>
+           </td>
+          </tr>
+         </table>
+         
+         <spacer size="20"></spacer>
+         
+         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size: 24px; line-height: 30px;">Remarkable B2B Startup, Officially</h2>
+         <p>
+            Their page speaks for itself: “Meet some the most promising B2B software startups that have recently raised outside funding.”
+            Check those out!
+         </p>
+         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#505050; border:1px solid #353535; border-radius:5px;">
+          <tr>
+           <td align="center" valign="middle" style="color:#ffd84d; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; line-height:150%; padding:15px 30px 15px 30px;">
+           <a href="https://growthlist.co/b2b-startups" style="color:#FFFFFF;">GrowthList B2B Startups</a>
+           </td>
+          </tr>
+         </table>
+      </td>
+   </tr>
 
-<container>
 
-  <spacer size="16"></spacer>
+      <p>
+        Sure thing, weвЂ™re always there to help you. Feel free to ask your
+        questions by replying to this email or posting those around our
+        <a href="https://uploadcare.com/community/?utm_source=sendgrid&utm_medium=email&utm_campaign=digest_jun" target="_blank">Community Area</a>.
+      </p>
 
-  <row>
-    <columns small="12">
-      <h1>Hi, Elijah Baily</h1>
-      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi impedit sapiente delectus molestias quia.</p>
-      <img src="https://placehold.it/600x300" alt="">
-      <callout class="primary">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam assumenda, praesentium qui vitae voluptate dolores. <a href="#">Click it!</a></p>
-      </callout>
-      <h2>Title Ipsum <small>This is a note.</small></h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi repellat, harum. Quas nobis id aut, aspernatur, sequi tempora laborum corporis cum debitis, ullam, dolorem dolore quisquam aperiam! Accusantium, ullam, nesciunt. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus consequuntur commodi, aut sed, quas quam optio accusantium recusandae nesciunt, architecto veritatis. Voluptatibus sunt esse dolor ipsum voluptates, assumenda quisquam.</p>
+      <spacer size="32"></spacer>
 
-      <button class="large secondary" href="#">Click Me!</button>
+      <p>
+        Thanks for reading рџ§
+      </p>
 
+      <spacer size="8"></spacer>
+
+      <p>
+        <em>
+          Cheers,<br>
+          The Uploadcare Team<br>
+          <a href="http://uploadcare.com?utm_source=sendgrid&utm_medium=email&utm_campaign=digest_mar" target="_blank">uploadcare.com</a>
+        </em>
+      </p>
     </columns>
   </row>
-
-  <wrapper class="secondary">
-
-    <spacer size="16"></spacer>
-
-    <row>
-      <columns large="6">
-        <h5>Connect With Us:</h5>
-        <button class="facebook expand" href="#">Facebook</button>
-        <button class="twitter expand" href="#">Twitter</button>
-        <button class="google expand" href="#">Google+</button>
-      </columns>
-      <columns large="6">
-        <h5>Contact Info:</h5>
-        <p>Phone: 408-341-0600</p>
-        <p>Email: <a href="mailto:foundation@zurb.com">foundation@zurb.com</a></p>
-      </columns>
-    </row>
-  </wrapper>
-
-  <center>
-    <menu>
-      <item href="#">Terms</item>
-      <item href="#">Privacy</item>
-      <item href="#">Unsubscribe</item>
-    </menu>
-  </center>
-
 </container>
+</body>
+</html>
