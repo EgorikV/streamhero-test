@@ -1,0 +1,282 @@
+---
+layout: uploadcare-newsletter
+type: broadcast
+subject: "Skim the cream of Smart Crop & Compression вЂ” Uploadcare Newsletter"
+description: "A gift for those who read newsletters to the end"
+---
+
+<container>
+  <row>
+    <columns>
+      <p>
+        Howdy{{#recipient beforename=" "}}{{/recipient}},
+      </p>
+
+      <p>
+        Uploadcare Team&rsquo;s on&nbsp;the line. Here is&nbsp;a&nbsp;recap
+        of&nbsp;our exciting new features and products for you!
+      </p>
+
+      <p>
+        <b>Two new CDN API content-aware methods:</b>
+      </p>
+
+      <ul>
+        <li>
+          Smart Compression: perfectly balances out image size and quality рџ–ј
+        </li>
+        <li>
+          Smart Crop: detects important objects in&nbsp;images and chops off
+          the rest вњ‚пёЏ
+        </li>
+      </ul>
+
+      <p>
+        <b>Dream on Revamping the Customer Experience?</b>
+      </p>
+
+      <ul>
+        <li>
+          PageDetox: analyze key&nbsp;CX metrics рџ“Љ
+        </li>
+        <li>
+          вЂњHow-toвЂќ Ebook: get insights on&nbsp;elevating them рџ“’
+        </li>
+      </ul>
+
+      <p>
+        <b>Some buzz and great news:</b>
+      </p>
+
+      <ul>
+        <li>
+          Trending right now: a&nbsp;14k-word HackerNews thread on&nbsp;how
+          to&nbsp;spend $50K on&nbsp;Google Ads better than&nbsp;usрџ”Ґ
+        </li>
+        <li>
+          Tech writer wanted: Uploadcare is&nbsp;looking for the One making
+          our Docs better вњЌпёЏ
+        </li>
+        <li>
+          Secret gift: for the ones making it&nbsp;to&nbsp;the end of&nbsp;this
+          email рџЊљ
+        </li>
+      </ul>
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <h1>
+        Now, letвЂ™s get to the point
+      </h1>
+
+      <spacer size="12"></spacer>
+
+      <h2>
+        рџ–ј Smart Compression
+      </h2>
+
+      <p>
+        Smart compression is&nbsp;a&nbsp;content-aware CDN API method that
+        automatically optimizes images for the smallest file size while
+        preserving the visual quality.
+      </p>
+
+      <p>
+        The operation balances out image compression levels and formats.
+        It&nbsp;is&nbsp;URL-based and comes included in&nbsp;Adaptive Delivery
+        or&nbsp;can be&nbsp;applied separately рџ§ђ
+      </p>
+
+      <p>
+        We&rsquo;re starting a&nbsp;series about Image Transformations,
+        and Smart Compression comes first. Enjoy!
+      </p>
+
+      <spacer size="6"></spacer>
+
+      {{#button href="https://uploadcare.com/docs/image_transformations/compression_performance/"}}
+        Read the Docs
+      {{/button}}
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <spacer size="12"></spacer>
+
+      <h2>
+        вњ‚пёЏ Smart Crop
+      </h2>
+
+      <p><i>Content-aware crop joined the chat</i> рџ‘Ђ</p>
+
+      <p>
+        Enable content-aware crop by&nbsp;switching the crop type to&nbsp;smart.
+        This method detects important objects in&nbsp;images and cuts off
+        the rest. The algorithm uses deep neural networks
+        to&nbsp;do&nbsp;the job.
+      </p>
+
+      <p>
+        Oh&nbsp;yeah, it&rsquo;s also a&nbsp;CDN API method and comes URL-based.
+      </p>
+
+      <spacer size="6"></spacer>
+
+      {{#button href="https://uploadcare.com/docs/image_transformations/compression_performance/"}}
+        Read the Docs
+      {{/button}}
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <h2>
+        рџ“Љ Page Detox
+      </h2>
+
+      <p>
+        Image Optimization is&nbsp;the low-hanging fruit to&nbsp;improve
+        the Customer&nbsp;Experience.
+      </p>
+
+      <p>
+        We&nbsp;developed an&nbsp;analyzer that shows how key&nbsp;CX metrics
+        can be&nbsp;improved with Image Optimization.
+      </p>
+
+      <spacer size="6"></spacer>
+
+      {{#button href="https://pagedetox.com/"}}
+        Test Your Website Now
+      {{/button}}
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <h2>
+        рџ“’ Get insights on instantly improving CX
+      </h2>
+
+    </columns>
+  </row>
+</container>
+
+{{#banner
+  link="https://ucarecdn.com/a050a223-a3b4-47e3-9f76-6f40170e490a/-/inline/yes/eBook-How-to-elevate-customer-experience-online.pdf"
+  uuid="2eac08ac-2ba0-4850-b0a9-7625ba68444c"}}
+{{/banner}}
+
+<container>
+  <row>
+    <columns>
+      <spacer size="24"></spacer>
+
+      <p>
+        No&nbsp;more sleepless nights wandering through vast and hard-to-get
+        reports: we&nbsp;compiled a&nbsp;concise Ebook ready
+        to&nbsp;put into action.
+      </p>
+
+      <spacer size="6"></spacer>
+
+      {{#button href="https://ucarecdn.com/a050a223-a3b4-47e3-9f76-6f40170e490a/-/inline/yes/eBook-How-to-elevate-customer-experience-online.pdf"}}
+        Download PDF
+      {{/button}}
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <spacer size="12"></spacer>
+
+      <h2>
+        рџ”Ґ Trending right now on HackerNews
+      </h2>
+
+      <p>
+        Tell how you screwed up&nbsp;and get the evergreen content! рџЃ
+      </p>
+
+      <p>
+        Our blog post on&nbsp;how we&nbsp;wasted $50k on&nbsp;Google Ads
+        catches the eye again on&nbsp;HackerNews. It&rsquo;s a&nbsp;pity
+        almost no&nbsp;one understands that the article is&nbsp;two years old,
+        though.
+      </p>
+
+      <spacer size="6"></spacer>
+
+      <button class="rounded large text-center" href="https://news.ycombinator.com/item?id=22137279">
+        The Thread
+      </button>
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <spacer size="12"></spacer>
+
+      <h2>
+        рџЋЃ And hereвЂ™s your gift
+      </h2>
+
+      <p>
+        Adaptive Delivery is&nbsp;our latest big technology released.
+      </p>
+
+      <p>
+        Imagine that a&nbsp;single line of&nbsp;code can serve every visitor
+        of&nbsp;your site with images adapted to&nbsp;their location, device,
+        browser, screen... That&rsquo;s what we&nbsp;call personalization рџ‰
+      </p>
+
+      <p>
+        As&nbsp;a&nbsp;result, you get&nbsp;20% lower bounce rates and&nbsp;15%
+        more pageviews for each user session.
+      </p>
+
+      <p>
+        Adaptive Delivery is&nbsp;available now on&nbsp;the Pro plan!
+        The secret code <b>GOADAPTIVE</b> gives you a&nbsp;45% discount.
+        Use it&nbsp;in {{#a href="https://uploadcare.com/accounts/settings/plan/"}}your Dashboard{{/a}}!
+      </p>
+
+      <spacer size="0"></spacer>
+
+      <hr>
+
+      <spacer size="12"></spacer>
+
+      <h2>
+        вњЌпёЏ Think our docs could be better? We too!
+      </h2>
+
+      <p>
+        Uploadcare is&nbsp;looking for a&nbsp;Tech Writer who believes that
+        the Uploadcare stuff is&nbsp;cool and knows how to&nbsp;make our Docs
+        better. If&nbsp;you&rsquo;re The One or&nbsp;suspect that a&nbsp;friend
+        of&nbsp;yours&nbsp;is, drop&nbsp;us a&nbsp;line at
+        <a href="mailto:247@uploadcare.com">247@uploadcare.com</a>
+        with a&nbsp;link on&nbsp;the recently created Docs.
+      </p>
+
+      <spacer size="36"></spacer>
+
+      <p>
+        Whooa! That&rsquo;s about&nbsp;it, thanks for reading!
+        Got any thoughts to share? Just reply to this email
+      </p>
+
+      <spacer size="8"></spacer>
+
+      <p>
+        Have a beautiful day,<br>
+        The Uploadcare Team
+      </p>
+    </columns>
+  </row>
+</container>
