@@ -13,7 +13,7 @@ description: "Read the definitive blog post on Lazy Loading and check out Conten
                      alt="Uploadcare" width="133" height="25" style="display: block;"/>
           </a>
           <h1 align="center">
-              Howdy [%first_name%],
+              Howdy{{#recipient beforename=" "}}{{/recipient}},
           </h1>
        
          <p>
