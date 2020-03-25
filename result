@@ -10,15 +10,8 @@
   <!-- <style> -->
 </head>
 
----
-layout: uploadcare-newsletter
-type: sendgrid
-unsubtoken: 4 # Newsletter
-subject: "Why should every website use Lazy Loading in 2020? — Uploadcare Newsletter"
-Read the definitive blog post on Lazy Loading and check out Contentful CMS plugin by our customers
----
-
 <body>
+  <span class="subject">"Why should every website use Lazy Loading in 2020? — Uploadcare Newsletter"</span>
   <span class="preheader">Read the definitive blog post on Lazy Loading and check out Contentful CMS plugin by our customers</span>
   <table cellspacing="0" cellpadding="0" border="0" width="600">
     <tr>
@@ -95,33 +88,38 @@ Read the definitive blog post on Lazy Loading and check out Contentful CMS plugi
            </td>
           </tr>
          </table>
+         
+         <spacer size="20"></spacer>
+         
+         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size: 24px; line-height: 30px;">Two Secret Plans Offer Extended</h2>
+         <p>
+           After our recent broadcast on the benefits of Adaptive Delivery, there were lots of requests to extend the offer. So, here are
+           two secret plans again to help you maintain a smooth image serving, file uploading, and faultless CX.
+           
+           Just copy one of the promo codes and hit the “Get Offer” button to apply it:
+         </p>
+         <ul>
+             <li>Usage Ninja secret plan with extended limits, <b>BOOST45</b></li>
+             <li>30% off Professional plan with <a href="https://uploadcare.com/docs/adaptive_delivery/">Adaptive Delivery</a>, <b>GOADAPTIVE</b></li>
+         </ul>
+         <img src="https://ucarecdn.com/4b4924ef-3f42-400e-9ee5-a7cdb7ee7ba2/" align="center" alt="Choose the plan" width="600" height="523" style="display: block;"/>
+         <p>
+            Not sure which plan to choose? Check out your current plan and limits in your <a href="https://uploadcare.com/dashboard/">Dashboard</a>, or just reply to this email if you
+            have any questions.
+            
+            That’s about it, thanks for reading! Got any thoughts to share? Just reply to this email.</p>
       </td>
    </tr>
-
-
-      <p>
-        Sure thing, weвЂ™re always there to help you. Feel free to ask your
-        questions by replying to this email or posting those around our
-        <a href="https://uploadcare.com/community/?utm_source=sendgrid&utm_medium=email&utm_campaign=digest_jun" target="_blank">Community Area</a>.
-      </p>
-
-      <spacer size="32"></spacer>
-
-      <p>
-        Thanks for reading рџ§
-      </p>
-
-      <spacer size="8"></spacer>
-
+   <tr>
+     <td>
       <p>
         <em>
-          Cheers,<br>
+          Lazy-load images, not ideas<br>
           The Uploadcare Team<br>
           <a href="http://uploadcare.com?utm_source=sendgrid&utm_medium=email&utm_campaign=digest_mar" target="_blank">uploadcare.com</a>
         </em>
       </p>
-    </columns>
-  </row>
-</container>
+     </td>
+   </tr>
 </body>
 </html>
