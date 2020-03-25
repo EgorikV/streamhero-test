@@ -11,26 +11,26 @@
 </head>
 
 <body>
-  <span class="subject">"Why should every website use Lazy Loading in 2020? — Uploadcare Newsletter"</span>
-  <span class="preheader">Read the definitive blog post on Lazy Loading and check out Contentful CMS plugin by our customers</span>
-  <table cellspacing="0" cellpadding="0" border="0" width="600">
+  <span class="subject" style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:10px;">"Why should every website use Lazy Loading in 2020? — Uploadcare Newsletter"</br></span>
+  <span class="preheader" style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:10px;">Read the definitive blog post on Lazy Loading and check out Contentful CMS plugin by our customers</br></span>
+ </br>
+ <table align="center" cellspacing="0" cellpadding="0" border="0" width="600">
     <tr>
         <td align="center" valign="top">
           <a href="https://uploadcare.com/?utm_source={{newsletter-early-03-20}}&utm_medium=email&utm_campaign={{newsletter-early-03-20}}-{{main}}&utm_content={{newsletter-early-03-20}}}-{{main}}-logo">
           <img src="https://ucarecdn.com/c63e27e7-983c-4ba9-867e-d903a89ed646/-/resize/266x/uploadcare.png"
                      alt="Uploadcare" width="133" height="25" style="display: block;"/>
           </a>
-          <p>
-              Howdy [%first_name%],
-          </p>
+          <h1 style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight: bold;">
+              Howdy [%first_name%],</h1>
        </td>
    </tr>
    <tr>
       <td align="left" valign="top" style="padding: 40px 25px 20px 25px;">
-         <p>
-            Uploadcare Team’s on the line. Here is a summary of our latest news for you
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
+            Uploadcare Team's on the line. Here is a summary of our latest news for you
          </p>
-         <ul>
+         <ul style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
              <li><b>Get Moving with Lazy Loading Images:</b> a definitive post in our blog highlighting Lazy Loading pros and implementation
              techniques.</li>
              <li><b>Contentful CMS Integration:</b> brought to you with by <a href="https://www.prezly.com/">Prezly</a>.</li>
@@ -47,72 +47,71 @@
    </tr>
    <tr>
       <td align="left" valign="top" style="padding: 40px 25px 20px 25px;">
-         <p>
-            Have you ever wondered what’s the real benefit of Lazy Loading, and which way of implementing Lazy Loading is better?
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
+            Have you ever wondered what's the real benefit of Lazy Loading, and which way of implementing Lazy Loading is better?
             Read our latest post in the Uploadcare Blog to clear things up!
          </p>
-         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#505050; border:1px solid #353535; border-radius:5px;">
+         <a href="https://uploadcare.com/blog/lazy-loading-images/" style="display:block; height:100%;">
+         <table border="0" cellpadding="0" cellspacing="0" width="200px" style="background-color:#ffbf00; border:0px solid #353535; border-radius:20px;">
           <tr>
-           <td align="center" valign="middle" style="color:#ffd84d; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; line-height:150%; padding:15px 30px 15px 30px;">
-           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#FFFFFF;">Read post</a>
+           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#ffffff; display: block; height: 100%;">
+           <td align="center" valign="middle" style="color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; line-height:150%; padding:10px 0 10px 0;">
+           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px; display:block; height:100%;">Read post</a>
            </td>
           </tr>
-         </table>
-         
-         <spacer size="20"></spacer>
-         
-         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size: 24px; line-height: 30px;">Contentful CMS Plugin by Prezly</h2>
-         <p>
-            Our customers Prezly made a great JS plugin to use Uploadcare with Contentful CMS. It’s pretty easy to install or tweak the
+         </table></a>
+                 
+         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size:24px; margin-top:60px;">Contentful CMS Plugin by Prezly</h2>
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
+            Our customers Prezly made a great JS plugin to use Uploadcare with Contentful CMS. It's pretty easy to install or tweak the
             plugin. Try it yourself! P.S. Thank you, Prezly 
          </p>
-         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#505050; border:1px solid #353535; border-radius:5px;">
+         <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#ffffff;">
+         <table border="0" cellpadding="0" cellspacing="0" width="200px" style="background-color:#ffbf00; border:0px solid #353535; border-radius:20px;">
           <tr>
-           <td align="center" valign="middle" style="color:#ffd84d; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; line-height:150%; padding:15px 30px 15px 30px;">
-           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#FFFFFF;">Visit GitHub Repo</a>
+           <td align="center" valign="middle" style="color:#ffbf00; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; line-height:150%; padding:10px 0 10px 0;">
+           <a href="https://uploadcare.com/blog/lazy-loading-images/" style="color:#ffffff;">Visit GitHub Repo</a>
            </td>
           </tr>
-         </table>
+         </table></a>
          
-         <spacer size="20"></spacer>
-         
-         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size: 24px; line-height: 30px;">Remarkable B2B Startup, Officially</h2>
-         <p>
-            Their page speaks for itself: “Meet some the most promising B2B software startups that have recently raised outside funding.”
+         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size:24px; margin-top:60px;">Remarkable B2B Startup, Officially</h2>
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
+            Their page speaks for itself: "Meet some the most promising B2B software startups that have recently raised outside funding."
             Check those out!
          </p>
-         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#505050; border:1px solid #353535; border-radius:5px;">
+         <a href="https://growthlist.co/b2b-startups" style="color:#ffffff;">
+         <table border="0" cellpadding="0" cellspacing="0" width="200px" style="background-color:#ffbf00; border:0px solid #353535; border-radius:20px;">
           <tr>
-           <td align="center" valign="middle" style="color:#ffd84d; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:bold; line-height:150%; padding:15px 30px 15px 30px;">
-           <a href="https://growthlist.co/b2b-startups" style="color:#FFFFFF;">GrowthList B2B Startups</a>
+           <td align="center" valign="middle" style="color:#ffbf00; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; line-height:150%; padding:10px 0 10px 0;">
+           <a href="https://growthlist.co/b2b-startups" style="color:#ffffff;">GrowthList B2B Startups</a>
            </td>
           </tr>
-         </table>
-         
-         <spacer size="20"></spacer>
-         
-         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size: 24px; line-height: 30px;">Two Secret Plans Offer Extended</h2>
-         <p>
+         </table></a>
+                
+         <h2 style="color: #222222; font-family: Arial, sans-serif; font-size:24px; margin-top:60px;">Two Secret Plans Offer Extended</h2>
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
            After our recent broadcast on the benefits of Adaptive Delivery, there were lots of requests to extend the offer. So, here are
            two secret plans again to help you maintain a smooth image serving, file uploading, and faultless CX.
-           
-           Just copy one of the promo codes and hit the “Get Offer” button to apply it:
          </p>
-         <ul>
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
+           Just copy one of the promo codes and hit the "Get Offer" button to apply it:
+         </p>
+         <ul style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
              <li>Usage Ninja secret plan with extended limits, <b>BOOST45</b></li>
              <li>30% off Professional plan with <a href="https://uploadcare.com/docs/adaptive_delivery/">Adaptive Delivery</a>, <b>GOADAPTIVE</b></li>
          </ul>
          <img src="https://ucarecdn.com/4b4924ef-3f42-400e-9ee5-a7cdb7ee7ba2/" align="center" alt="Choose the plan" width="600" height="523" style="display: block;"/>
-         <p>
+         <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
             Not sure which plan to choose? Check out your current plan and limits in your <a href="https://uploadcare.com/dashboard/">Dashboard</a>, or just reply to this email if you
             have any questions.
             
-            That’s about it, thanks for reading! Got any thoughts to share? Just reply to this email.</p>
+            That's about it, thanks for reading! Got any thoughts to share? Just reply to this email.</p>
       </td>
    </tr>
    <tr>
      <td>
-      <p>
+      <p style="color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height: 150%;">
         <em>
           Lazy-load images, not ideas<br>
           The Uploadcare Team<br>
@@ -121,5 +120,6 @@
       </p>
      </td>
    </tr>
+  </table>
 </body>
 </html>
